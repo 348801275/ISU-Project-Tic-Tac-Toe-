@@ -1,5 +1,4 @@
 # ISU-Project-Tic-Tac-Toe-
-README DOCUMENT 
 By: Claire Lamanna
 
 Part 1: Main Variable Descriptions
