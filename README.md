@@ -13,7 +13,6 @@ input - Contains the user’s chosen slot to occupy with their game token.
 Arrays:
 boardSlots - Contains integer numbers 1-9 to represent the gameboard slots. Used to place the game tokens on the gameboard. 
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Part 2: Logic/Structure Explanation
 
