@@ -29,4 +29,4 @@ main - Contains the main code and program.
 
 Part 2: Logic/Structure Explanation
 
-(WIP)
+For this assignment, I designed this program to flow with chronological order and priority. Each block of code is designed with a rubric aspect in mind and structured in order of appearance and process. It begins with an introduction, finishes with potential conclusions, and includes a lengthy process of gameplay and processing between those spaces. The exception to this is the development of the Tic Tac Toe board towards the beginning of the program. Overall, it is optimized for readability and functions through a combination of user inputs and processing.
